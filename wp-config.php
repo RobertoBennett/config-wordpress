@@ -91,7 +91,7 @@ define( 'WP_DEBUG_DISPLAY', false );
 define('WP_HOME','https://site.ru');
 define('WP_SITEURL','https://site.ru');
 define('FORCE_SSL_ADMIN', true);
-define('IPINFO_TOKEN', 'd3992412cdd465');
+// define('IPINFO_TOKEN', 'ваш_token');	//Раскомментировать если используется
 define('FORCE_SSL_ADMIN', true);
 define('COOKIE_DOMAIN', '.site.ru');
 define('WP_REDIS_TIMEOUT', 1);          // Таймаут соединения (сек)
